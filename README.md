@@ -2,9 +2,9 @@
 <h3 align="center">A excited Full Stack developer</h3>
 
 
-- 🔭 I’m currently working on **FPS Shooter game**
+- 🔭 I’m currently working on **FPS Shooter game, Swift App**
 
-- 🌱 I’m currently learning **Game Design and game programing**
+- 🌱 I’m currently learning **Game Design, game programing and Swift with XCode**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HikaruKurusu](https://github.com/HikaruKurusu)
 
