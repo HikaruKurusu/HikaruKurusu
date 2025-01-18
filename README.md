@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Hikaru Kurusu</h1>
-<h3 align="center">A excited frontend developer</h3>
+<h3 align="center">A excited Full Stack developer</h3>
 
 
 - 🔭 I’m currently working on **FPS Shooter game**
