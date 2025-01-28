@@ -12,7 +12,7 @@
 
 - 📄 Looking for Internship opportunities [https://docs.google.com/document/d/1ZlWdnXfXA7H7aNUeRvaux-WkNW53eLmPpy3D2arqTpA/edit?usp=sharing](https://docs.google.com/document/d/1ZlWdnXfXA7H7aNUeRvaux-WkNW53eLmPpy3D2arqTpA/edit?usp=sharing)
 
-- ⚡ Fun fact **Coding for about 4-5 years**
+- ⚡ Fun fact **Coding for about 6 years**
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZnOHA5OXN2am1sMXF0dXl1aWFma2VudzFrbDFwN2dlOWlzMDVjZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
